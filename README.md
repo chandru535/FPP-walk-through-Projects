@@ -8,9 +8,12 @@ This repository serves as a reference point for my FPP project developed using *
 
 Click the link below to access the full FPP project:
 
-👉 [Download FPP Project from Google Drive](https://drive.google.com/your-link-here)
+👉 [Download FPP Project from Google Drive](https://drive.google.com/drive/folders/1KP6omSTrTiuH4fNZj9DGsKqDc5QwzYLA?usp=sharing)
 
 > Note: Make sure you have enough space and computing poweer to run these Projects
+
+# To run the application
+Download the project, Project folder > Windows > .exe files
 
 ## 🛠️ Project Details
 
